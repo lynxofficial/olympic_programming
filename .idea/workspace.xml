@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7aa98394-f407-4de3-a566-cb545489fc09" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/15bc7ec4-8f51-427e-af7c-a9321ee53c60.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/15bc7ec4-8f51-427e-af7c-a9321ee53c60/storage_v2/_src_/database/web_database.Bvb5RQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/15bc7ec4-8f51-427e-af7c-a9321ee53c60/storage_v2/_src_/database/web_database.Bvb5RQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/15bc7ec4-8f51-427e-af7c-a9321ee53c60/storage_v2/_src_/database/web_database.Bvb5RQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/15bc7ec4-8f51-427e-af7c-a9321ee53c60/storage_v2/_src_/database/web_database.Bvb5RQ/schema/public.abK9xQ.meta" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/database/web_database_localhost-2024_04_10_16_58_27-dump.sql" afterDir="false" />
@@ -156,7 +162,7 @@
       <workItem from="1712722042215" duration="11940000" />
       <workItem from="1712734574077" duration="2836000" />
       <workItem from="1712746147856" duration="759000" />
-      <workItem from="1712753350234" duration="2510000" />
+      <workItem from="1712753350234" duration="2791000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -166,11 +172,30 @@
       <option name="project" value="LOCAL" />
       <updated>1712580145259</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1712756291734</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712756291734</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
